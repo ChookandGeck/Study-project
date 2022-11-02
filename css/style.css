@@ -1,0 +1,23 @@
+body {
+  background-color: #C2FFF9;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #71DFE7;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #009DAE;
+}
+h2{
+  color: #009DAE;
+}
+h3{
+  color: #009DAE;
+}
+.profileimg{
+  border-radius: 100%;
+}
